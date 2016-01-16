@@ -1,2 +1,3 @@
 # JFK-Departure-Delays-Analysis
-Air Carrier Delay Analysis Out of JFK Airport
+This repo analyzes Air Carrier Delays Out of JFK Airport and a predictive model is developed to account for weather related delays.
+
